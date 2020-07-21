@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initia-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie-edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <title>Bootstrap</title>
+    <style>
+	a:link,a:visited{
+		color:black
+	}
+    </style>
+</head>
+<body>
+    <div class="jumbotron jumbotron-fluid bg-success text-white">
+	<div class="container">
+	    <h1 class="display-4">Sports</h1>
+	    <p>Bible</p><hr>
+	</div>
+     <div class="container bg-secondary text-white">
+  	<div class="row">
+    	     <div class="col-sm">
+      		<a href="https://www.sportbible.com/football">Football</a>
+    	     </div>
+             <div class="col-sm">
+		<a href="https://www.sportbible.com/boxing">Boxing</a>
+             </div>
+            <div class="col-sm">
+                <a href="https://www.sportbible.com/ufc">UFC</a>
+    	    </div>
+        </div>
+    </div>
+   </div>
+
+
+
+    <div class="container">
+	<div class="row">
+	   <div class="col-md-6 col-lg-3">
+		<div class="card">
+		    <a href="https://www.sportbible.com/football/news-community-legends-marcus-rashford-more-than-just-a-footballer-a-role-model-for-all-20200616"><img class="card-img-top img-fluid" src="./images/football.png" alt="Marcus Rashford"></a>
+		    <div class="card-block">
+			<h4 class="card-title">Football</h4>
+			<p><strong><a href="https://www.sportbible.com/football/news-community-legends-marcus-rashford-more-than-just-a-footballer-a-role-model-for-all-20200616">Marcus Rashford is more than just a footballer.He's a role model for people of all ages.</a></strong></p>
+	      	     </div>
+		 </div>
+	     </div>
+            <div class="col-md-6 col-lg-3">
+		<div class="card">
+		    <a href="https://www.sportbible.com/football/classic-community-news-what-happened-to-siphiwe-tshabalala-the-man-who-shocked-the-world-20200610"><img class="card-img-top img-fluid" src="./images/football_1.png" alt="Siphiwe Tshabalala"></a>
+		    <div class="card-block">
+			<h4 class="card-title">Football</h4>
+			<p><strong><a href="https://www.sportbible.com/football/classic-community-news-what-happened-to-siphiwe-tshabalala-the-man-who-shocked-the-world-20200610">What Happened to Siphiwe Tshabalala: The Man who shocked the World at the 2010 World Cup.</a></strong></p>
+	      	     </div>
+		 </div>
+	     </div>
+             <div class="col-md-6 col-lg-3">
+		<div class="card">
+		    <a href="https://www.sportbible.com/football/reactions-news-sunday-league-manager-invests-in-card-machine-to-keep-on-top-of-fees-20200602"><img class="card-img-top img-fluid" src="./images/football_2.png" alt="League Manager"></a>
+		    <div class="card-block">
+			<h4 class="card-title">Football</h4>
+			<p><strong><a href="https://www.sportbible.com/football/reactions-news-sunday-league-manager-invests-in-card-machine-to-keep-on-top-of-fees-20200602">Sunday League Manager Invests in card machine to keep on top of match fees.</a></p></strong>
+	      	     </div>
+		 </div>
+	     </div>
+
+	 </div>
+     </div>
+
+  <div class="container bg-success text-white" height="250px" width="782px">
+     <div class="row">
+	<div class="col-sm">
+      		Spotlight
+    	 </div>
+     </div>
+  </div>
+
+<div class="container">   
+<a href="https://www.sportbible.com/boxing/reactions-news-legends-mike-tyson-opens-up-about-why-he-doesnt-fear-death-in-new-interview-20200317"><h3>Mike Tyson Opens Up About Why He Doesn't Fear Death In Remarkable New Interview.</h3></a>
+	<div class="row">
+	   <div class="col-sm-6 col-lg-3">
+		<div class="card">
+		   <picture>
+		   <a href="https://www.sportbible.com/boxing/reactions-news-legends-mike-tyson-opens-up-about-why-he-doesnt-fear-death-in-new-interview-20200317"><img src="./images/mike.png" alt="Mike" width="782px" height="250px"></a>
+		   </picture>
+		</div>	    
+	   </div>
+	</div>
+</div>
+<br><br>
+	
+
+
+
+
+
+ <div class="container">
+	<div class="row">
+	   <div class="col-md-6 col-lg-3">
+		<div class="card">
+		    <a href="https://www.sportbible.com/ufc/mma-exclusives-georges-st-pierre-exclusive-why-ufc-didnt-want-me-to-fight-khabib-20200513"><img class="card-img-top img-fluid" src="./images/image.png" alt="UFC"></a>
+		    <div class="card-block">
+			<h4 class="card-title">UFC</h4>
+			<p><strong><a href="https://www.sportbible.com/ufc/mma-exclusives-georges-st-pierre-exclusive-why-ufc-didnt-want-me-to-fight-khabib-20200513"</a>Georges St-Pierre Exclusive:I Could Be A Champion Again, But There's Only One Way To Find Out</strong></p>
+	      	     </div>
+		 </div>
+	    </div>
+	    <div class="col-md-6 col-lg-3">
+		<div class="card">
+		    <a href="https://www.sportbible.com/boxing/boxing-news-reactions-the-trick-tyson-fury-used-to-look-heavier-before-wilder-fight-20200225"><img class="card-img-top img-fluid" src="./images/image1.png" alt="UFC"></a>
+		    <div class="card-block">
+			<h4 class="card-title">Boxing</h4>
+			<p><strong><a href="https://www.sportbible.com/boxing/boxing-news-reactions-the-trick-tyson-fury-used-to-look-heavier-before-wilder-fight-20200225"</a>The Brilliant Trick Tyson Fury Used To Look Heavier At Deontay Wilder Weigh-In</strong></p>
+	      	     </div>
+		 </div>
+            </div>
+
+	    <div class="col-md-6 col-lg-3">
+		<div class="card">
+		    <a href="https://www.sportbible.com/football/news-reactions-19-year-old-alphonso-davies-ran-the-show-at-stamford-bridge-20200225"><img class="card-img-top img-fluid" src="./images/image2.png" alt="Alphonso Davies Ran"></a>
+		    <div class="card-block">
+			<h4 class="card-title">Boxing</h4>
+			<p><strong><a href="https://www.sportbible.com/football/news-reactions-19-year-old-alphonso-davies-ran-the-show-at-stamford-bridge-20200225"</a>19-Year-Old ?Alphonso Davies Ran The Show At Stamford Bridge, Produces Unreal Assist</strong></p>
+	      	     </div>
+	    </div>
+   </div>
+</div><br><br>
+
+ <div class="container bg-success text-white" height="250px" width="782px">
+     <div class="row">
+	<div class="col-sm">
+      		Football
+    	 </div>
+     </div>
+  </div><br>
+
+<div class="container">
+	<div class="row">
+	   <div class="col-md-6 col-lg-3">
+		<div class="card">
+		    <a href="https://www.sportbible.com/football/funny-barcelona-react-to-news-theyll-be-no-ballon-dor-this-year-20200720"><img class="card-img-top img-fluid" src="./images/image13.png" alt="Barcelona" width="500px" height="500px"></a>
+		</div>
+	    </div>
+	    <div class="card" style="width: 18rem;">
+  		<div class="card-body">
+		<h4><a href="https://www.sportbible.com/football/funny-barcelona-react-to-news-theyll-be-no-ballon-dor-this-year-20200720">Barcelona React To News They'll Be No Ballon d'Or This Year</a></h4>
+		<footer>
+		<p>Lionel Messi won't be able to add a seventh Ballon d'Or to his trophy cabinet as the Covid-19 situation has cancelled this year's award.</p>
+		</footer>
+	        </div>
+	    </div><br>
+	</div>
+</div>
+<h4class="display-4"><button>Submit your content</button></h4>
+</body>
+
+
+
+</body>
+</html>
